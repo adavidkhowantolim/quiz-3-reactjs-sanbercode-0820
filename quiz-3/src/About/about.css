@@ -1,0 +1,17 @@
+.about-section {
+  padding: 10px;
+  background-color: white;
+  margin: auto;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+.about-container {
+  margin: auto;
+  width: 60%;
+  background-color: white;
+  padding: 20px
+}
+.about-h1 {
+  text-align: center;
+}

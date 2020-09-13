@@ -1,0 +1,17 @@
+.app-div {
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 80px;
+  font-family: "Slabo 27px";
+}
+body {
+  background:
+  url("./img/pattern.jpg") repeat;
+}
+h1 {
+  text-align: center;
+  font-size: xx-large;
+}
+h2 {
+  font-size: 21px;
+}

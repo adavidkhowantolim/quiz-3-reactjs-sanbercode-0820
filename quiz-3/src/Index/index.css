@@ -1,0 +1,20 @@
+.index-section {
+  width: 65%;
+  padding: 20px;
+  background-color: white;
+  margin: auto;
+  overflow: hidden;
+}
+.index-image {
+  width: 60%; /* width of container */
+  height: 300px; /* height of container */
+  object-fit: cover;
+  margin-right: 15px;
+  display: flexbox;
+}
+.index-sideimg {
+  vertical-align:top;
+  margin-left: 15px;
+  display: inline-block;
+  margin: 2px 0 0 0;
+}
