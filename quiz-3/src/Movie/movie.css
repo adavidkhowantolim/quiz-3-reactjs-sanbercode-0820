@@ -1,0 +1,40 @@
+.movie-div {
+  width: 65%;
+  padding: 20px;
+  background-color: white;
+  margin: auto;
+  overflow: hidden;
+}
+.form_edit{
+  display: block;
+  text-align: center;
+}
+.table_form{
+  margin: 0 auto; 
+  width:65%;
+}
+.label {
+  margin-right: 6px;
+}
+.table {
+  width: 60%;
+  margin: auto;
+}
+.th {
+  border-bottom: 1px solid lightgray;
+}
+.td {
+  border-bottom: 1px solid lightgray;
+}
+
+td label {
+  float: left;
+  font-size: medium;
+  font-weight: bold;
+}
+td input {
+  float: right;
+}
+td textarea {
+  float: right;
+}
